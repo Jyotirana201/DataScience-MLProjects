@@ -48,7 +48,7 @@ This repository contains a collection of Machine Learning algorithms and mini-pr
 
 1. Clone the repository
 2. Install required libraries:
-3. 3. Open Jupyter Notebook or run Python files
+3. Open Jupyter Notebook or run Python files
 4. Execute step by step
 
 ---
