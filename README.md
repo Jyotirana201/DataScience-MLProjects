@@ -1,5 +1,6 @@
 # Machine Learning Projects
 
+
 This repository contains a collection of Machine Learning algorithms and mini-projects implemented using Python. The goal of this repository is to practice and demonstrate core ML concepts using real datasets.
 
 ---
