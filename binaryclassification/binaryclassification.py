@@ -2,7 +2,6 @@ from tkinter import *
 import joblib
 import numpy as np
 
-# Load the binary classification model
 model = joblib.load("ML/binaryclassification/Binary_model.joblib")
 
 def predict():
